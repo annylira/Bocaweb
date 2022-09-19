@@ -1,0 +1,47 @@
+body{
+  background: #f3f6fd;
+  overflow-x: hidden;
+}
+
+.navbar{
+  background-color: #3f51b5;
+}
+
+.navbar-brand img{
+  width: auto;
+  height: 70px;
+}
+
+.nav-item .nav-link{
+  color: #FFF;
+  font-size: 1rem;
+}
+
+.nav-item .nav-link:hover{
+  color: #ffc107;
+  font-size: 1rem;
+}
+
+.quantidade{
+  font-size: 1rem;
+  font-weight: bold;
+  margin-top: 10px;
+  margin-left: 20px;
+}
+
+.card{
+  width: 35rem;
+}
+
+.lista{
+  justify-content: center;
+  gap: 30px;
+}
+
+.custom-footer{
+  background-color: #3f51b5
+}
+
+.copyright{
+  background-color: rgba(0, 0, 0, 0.2)
+}
